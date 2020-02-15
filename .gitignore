@@ -1,3 +1,4 @@
 notatki
 node_modules
 .vscode
+nodemon.json
